@@ -6,7 +6,7 @@ body {
 }
 
 .layout_padding {
-  padding: 90px 0;
+  padding: 60px 0;
 }
 
 .layout_padding2 {
@@ -787,5 +787,35 @@ a:focus {
   font-family: 'Montserrat',sans-serif;
   text-transform: capitalize;
   font-weight: 800;
+}
+
+.spon_body{
+  padding: auto;
+}
+
+.spon_body h2{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.spon_body h2 span {
+  color: #EF4D48;
+}
+
+.spon_body h2 u{
+  color: #6ec1e4;
+}
+
+.spon_padding{
+  padding: 30px 0;
+}
+
+.cfa_heading h1{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.cfa_heading span{
+  color: #EF4D48;
 }
 /*# sourceMappingURL=style.css.map */
