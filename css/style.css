@@ -87,7 +87,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/hero-bg.webp);
   background-size: cover;
   background-position: center;
 }
@@ -292,6 +292,19 @@ a:focus {
   color: #ffffff;
   border-radius: 30px;
   margin-top: 15px;
+}
+
+.button-con {
+  display: inline-block;
+  text-align: center;
+  background-color: #EF4D48;
+  color: #ffffff;
+  border-radius: 30px;
+  margin-top: 15px;
+}
+
+.button-con:hover{
+  background-color: #630503;
 }
 .og-com-h {
   text-decoration: underline;
