@@ -6,6 +6,15 @@
   .hero_area {
     height: auto;
   }
+  .slide-1{
+    height: 100vh;
+  }
+  .slide-2{
+    height: 100vh;
+  }
+  .slide-3{
+    height: 100vh;
+  }
 
   .header_section {
     margin-top: 0;
@@ -22,13 +31,16 @@
   }
 
   .slider_section {
-    padding: 75px 0 175px 0;
+    padding: 0px 0 0px 0;
   }
 
   .slider_section .carousel-indicators {
     bottom: 55px;
   }
 
+  .slider_section .detail_box{
+    margin-top: 80%;
+  }
 
 
   .course_section .carousel_btn-box {
@@ -100,6 +112,19 @@
   .footer_section .footer_box p:not(:nth-last-child(1)) {
     margin-bottom: 15px;
   }
+  .slide-1{
+    margin-top: 0;
+    background-image: url(../images/hero-ph-1.webp);
+  }
+  .slide-2{
+    margin-top: 0;
+    background-image: url(../images/hero-ph-2.webp);
+  }
+  .slide-2{
+    margin-top: 0;
+    background-image: url(../images/hero-ph-3.webp);
+  }
+  
 }
 
 @media (max-width: 576px) {

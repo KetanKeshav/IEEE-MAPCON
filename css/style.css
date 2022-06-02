@@ -77,20 +77,51 @@ a:focus {
 }
 
 /*header section*/
-.hero_area {
+.slide-1{
   height: 100vh;
   position: relative;
-  display: -webkit-box;
+  /* display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
-          flex-direction: column;
-  background-image: url(../images/hero-n.webp);
+          flex-direction: column; */
+  background-image: url(../images/hero-1.webp);
   background-size: cover;
   background-position: center;
 }
+
+.slide-2{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/hero-2.webp);
+  background-size: cover;
+  background-position: center;
+}
+
+.slide-3{
+  height: 100vh;
+  position: relative;
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; */
+  background-image: url(../images/hero-3.webp);
+  background-size: cover;
+  background-position: center;
+}
+
 
 .sub_page .hero_area {
   height: auto;
@@ -276,6 +307,7 @@ a:focus {
 
 .slider_section .detail_box {
   color: #ffffff;
+  margin-top: 20%;
 }
 
 .slider_section .detail_box h1 {
