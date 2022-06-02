@@ -16,6 +16,19 @@
     height: 100vh;
   }
 
+  .slide-1{
+    margin-top: 0;
+    background-image: url(../images/hero-md-1.jpg);
+  }
+  .slide-2{
+    margin-top: 0;
+    background-image: url(../images/hero-md-2.jpg);
+  }
+  .slide-3{
+    margin-top: 0;
+    background-image: url(../images/hero-md-3.jpg);
+  }
+
   .header_section {
     margin-top: 0;
   }
@@ -67,9 +80,26 @@
     margin: 0 2.5px;
   }
 
+  
+
 }
 
 @media (max-width: 768px) {
+  .slide-1{
+    position: relative;
+    margin-top: 0;
+    background-image: url(../images/hero-ph-1.jpg);
+  }
+  .slide-2{
+    position: relative;
+    margin-top: 0;
+    background-image: url(../images/hero-ph-2.jpg);
+  }
+  .slide-3{
+    position: relative;
+    margin-top: 0;
+    background-image: url(../images/hero-ph-3.jpg);
+  }
   .about_section .detail-box {
     margin-top: 45px;
   }
@@ -112,18 +142,8 @@
   .footer_section .footer_box p:not(:nth-last-child(1)) {
     margin-bottom: 15px;
   }
-  .slide-1{
-    margin-top: 0;
-    background-image: url(../images/hero-ph-1.webp);
-  }
-  .slide-2{
-    margin-top: 0;
-    background-image: url(../images/hero-ph-2.webp);
-  }
-  .slide-2{
-    margin-top: 0;
-    background-image: url(../images/hero-ph-3.webp);
-  }
+
+  
   
 }
 

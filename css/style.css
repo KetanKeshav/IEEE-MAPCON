@@ -87,7 +87,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; */
-  background-image: url(../images/hero-1.webp);
+  background-image: url(../images/hero_1.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -102,7 +102,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; */
-  background-image: url(../images/hero-2.webp);
+  background-image: url(../images/hero_2.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -117,7 +117,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; */
-  background-image: url(../images/hero-3.webp);
+  background-image: url(../images/hero_3.jpg);
   background-size: cover;
   background-position: center;
 }
