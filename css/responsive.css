@@ -18,15 +18,15 @@
 
   .slide-1{
     margin-top: 0;
-    background-image: url(../images/hero-md-1.jpg);
+    background-image: url(../images/1-md.webp);
   }
   .slide-2{
     margin-top: 0;
-    background-image: url(../images/hero-md-2.jpg);
+    background-image: url(../images/2-md.webp);
   }
   .slide-3{
     margin-top: 0;
-    background-image: url(../images/hero-md-3.jpg);
+    background-image: url(../images/3-md.webp);
   }
 
   .header_section {
@@ -88,17 +88,17 @@
   .slide-1{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/hero-ph-1.jpg);
+    background-image: url(../images/1-ph.webp);
   }
   .slide-2{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/hero-ph-2.jpg);
+    background-image: url(../images/2-ph.webp);
   }
   .slide-3{
     position: relative;
     margin-top: 0;
-    background-image: url(../images/hero-ph-3.jpg);
+    background-image: url(../images/3-ph.webp);
   }
   .about_section .detail-box {
     margin-top: 45px;
